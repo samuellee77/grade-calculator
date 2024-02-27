@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "Homework": {
+            "Policy": "PA",
+            "Weight": 0.3
+        },
+        "Quizzes": {
+            "Policy": "AVG",
+            "Weight": 0.2
+        },
+        "Exams": {
+            "Policy": "AVG",
+            "Weight": 0.5
+        }
+    }
+}

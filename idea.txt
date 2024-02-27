@@ -1,0 +1,20 @@
+Use json to record and calculate
+title: DSC80
+percentage:
+{
+    "category_1": 0.4 
+    "category_2": 0.5
+    "category_3": 0.1
+}
+drops:
+{
+    "category_1": 0
+    "category_2": 1
+    "category_3": 0   
+}
+grade:
+{
+    "category_1": [100, 90, 20]
+    "category_2": [80, 80, 70]
+    "category_3": [40, 96, 70]
+}
